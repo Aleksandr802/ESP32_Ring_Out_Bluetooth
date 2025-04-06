@@ -1,7 +1,3 @@
-Collecting workspace informationFiltering to most relevant informationHere’s a possible description for your GitHub project:
-
----
-
 # ESP32 Ring Out Bluetooth
 
 This project is an ESP32-based application that leverages Bluetooth capabilities to interact with external devices. It is built using the Arduino framework and PlatformIO for streamlined development and deployment.
